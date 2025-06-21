@@ -310,8 +310,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## 📞 Contact
 
 - **Author**: Jagadesh Chilla
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [chillajagadesh68@gmail.com](mailto:chillajagadesh68@gmail.com)
+- **LinkedIn**: [Chilla Jagadesh](https://www.linkedin.com/in/chilla-jagadesh-532246223/)
 - **GitHub**: [@jagadeshchilla](https://github.com/jagadeshchilla)
 
 ---
