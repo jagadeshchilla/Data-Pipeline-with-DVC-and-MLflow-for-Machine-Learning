@@ -4,7 +4,7 @@
 [![DVC](https://img.shields.io/badge/DVC-3.60+-orange.svg)](https://dvc.org/)
 [![MLflow](https://img.shields.io/badge/MLflow-3.1+-green.svg)](https://mlflow.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7+-red.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![DagsHub](https://img.shields.io/badge/DagsHub-Experiment%20Tracking-blue.svg)](https://dagshub.com/jagadeshchilla/machineLearningPipeline.mlflow)
 
 > **An end-to-end machine learning pipeline demonstrating best practices for reproducible ML workflows using DVC for data versioning and MLflow for experiment tracking.**
@@ -300,10 +300,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Commit your changes: `git commit -m "Add feature"`
 5. Push to the branch: `git push origin feature-name`
 6. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
